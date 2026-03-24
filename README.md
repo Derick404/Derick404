@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20[Your%20Name]%20👾&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Derick%20👾&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=55&descSize=18" />
 </div>
 
 <!-- Typing SVG -->
@@ -14,20 +14,17 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/derick-loichamu-3a4091359/">
     <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/_Its_derick">
     <img src="https://img.shields.io/badge/-%20Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://YOUR_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  </a>&nbsp>
+  <a href="mailto:dericklesuyai3@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=A855F7&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Derick404&style=flat-square&color=A855F7&label=Profile+Views" />
 </div>
 
 <br/>
@@ -37,23 +34,18 @@
 ## ⚡ About Me
 
 ```yaml
-name:        Your Name
-location:    Your City, Country
+name:        Derick
+location:    Nairobi, kenya
 role:        Full Stack Developer
-company:     Your Company / Freelance
 
-currently:
-  - 🔭 Building: [Your Current Project]
-  - 🌱 Learning: [New Technology]
-  - 🤝 Open to: Collaborations & Freelance Work
 
 interests:
   - Open Source
   - Web Development
-  - [Your Interest]
-  - [Your Interest]
+  - AI integration
+  - transaction systems
 
-fun_fact: "[Something fun about you!]"
+
 ```
 
 ---
@@ -66,8 +58,8 @@ fun_fact: "[Something fun about you!]"
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00ADD8?style=for-the-badge&logo=Java&logoColor=white)
 
 **Frontend**
 
