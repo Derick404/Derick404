@@ -82,14 +82,6 @@ interests:
 
 </div>
 
-
-
-
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
-
 <!-- Footer Wave -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
