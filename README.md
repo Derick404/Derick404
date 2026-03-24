@@ -31,25 +31,6 @@
 
 ---
 
-## About Me
-
-```yaml
-name:        Derick
-location:    Nairobi, kenya
-role:        Full Stack Developer
-
-
-interests:
-  - Open Source
-  - Web Development
-  - AI integration
-  - transaction systems
-
-
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
