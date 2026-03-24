@@ -14,12 +14,12 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/derick-loichamu-3a4091359/">
+  <a href="https://www.linkedin.com/in/%20derick-loichamu-3a4091359">
     <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://x.com/_Its_derick">
     <img src="https://img.shields.io/badge/-%20Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>&nbsp>
+  </a>&nbsp;
   <a href="mailto:dericklesuyai3@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
