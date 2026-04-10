@@ -2,8 +2,7 @@
 
 **Software Engineer — AI, Cybersecurity / Learn, Build, Share and Connect**
 
-[Website](https://dericklesuyai.vercel.app/) · [GitHub](https://github.com/derick404) · [LinkedIn](www.linkedin.com/in/derick
-loichamu-3a4091359) · [X](https://x.com/_Its_derick)
+[Website](https://dericklesuyai.vercel.app/) · [GitHub](https://github.com/derick404) · [X](https://x.com/_Its_derick)
 
 ---
 
